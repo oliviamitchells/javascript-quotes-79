@@ -1,2 +1,4 @@
-# javascript-quotes-79
+# Javascript Quotes 79
+
 Generate mock daily motivational quotes in JavaScript.
+
